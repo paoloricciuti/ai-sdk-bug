@@ -16,7 +16,7 @@
 	],
 	"dependencies": {
 		"@ai-sdk/mcp": "^0.0.12",
-		"@tmcp/transport-http": "^0.8.2",
+		"@tmcp/transport-http": "0.8.2",
 		"ai": "^5.0.113",
 		"dotenv": "^17.2.3",
 		"srvx": "^0.9.8",
